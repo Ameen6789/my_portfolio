@@ -1,0 +1,28 @@
+
+body {
+    font-family:"Poppins" ;
+    
+}
+#logo{
+    font-weight: 700;
+}
+#desktop-nav{
+    font-weight: 600;
+}
+#mobile-menu{
+    font-weight: 600;
+}
+/* #home{
+    padding-top: 150px;
+} */
+.project-image{
+    width: 100%;
+    aspect-ratio: 15/7;
+}
+
+
+@media(min-width:650px){
+    #title{
+        font-size: 56px;
+    }
+}
