@@ -3,6 +3,9 @@ body {
     font-family:"Poppins" ;
     
 }
+html {
+  scroll-behavior: smooth;
+}
 #logo{
     font-weight: 700;
 }
